@@ -22,6 +22,8 @@ The SJVN Ltd Grievance Redressal Portal is a web-based application built to hand
 4. **Grievance Status Tracking:**
    - Users can check the current status of their grievance using the Request ID.
    - The portal displays the current stage of the grievance redressal process.
+  
+   ![User side](https://github.com/karanthakur13/Grievance-Redressal/blob/main/User.png)
 
 ### Admin Side
 
