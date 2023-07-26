@@ -58,8 +58,4 @@ Due to confidentiality reasons, the source code of the SJVN Ltd Grievance Redres
 
 Please note that the project adheres to the necessary security measures to safeguard user data and maintain the integrity of the grievance redressal process.
 
-For any inquiries or further information, please feel free to contact the project team.
 
----
-Project created by [Your Name]
-Date: [Current Date]
